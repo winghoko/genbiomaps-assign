@@ -1,4 +1,4 @@
-# genbiomaps-assign
+# pre-post-maker
 
 Python script to assign a set of two isometric assessment question sets from GenBio-MAPS. Can be adapted for other pre-post or multi-section tests question assignments.
 
