@@ -10,4 +10,4 @@ The python script `PrePostMaker.py` implements an algorithm that aims to produce
 
 The `PrePostMaker.py` script can either be used directly from the command line or imported as a python module. In the former case, it takes an input file that describes the properties of the questions. By adapting this file (and changing the optional configuration `.json` file), the script can also be used for assigning other pre-post or multi-section tests.
 
-Since the answers to the GenBio-MAPS questions should not be readily available to students, this repo includes an **altered** input file named `genbiomaps_attr_altered.csv`, for which the number of T and F answers for each question item is randomly generated. Except that, all other attributes do match the actual questions on GenBio-MAPS.
+Since the answers to the GenBio-MAPS questions should not be readily available to students, this repo includes an **altered** input file named `genbiomaps_attr_altered.csv`, for which the number of T and F answers for each question item is _randomly generated_. Except that, all other attributes do match the actual questions on GenBio-MAPS.
